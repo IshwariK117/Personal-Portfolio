@@ -1,15 +1,23 @@
-@@ -1,69 +1,69 @@
-<h1 align="center">Welcome to Personal-portfolio 👋
-<a href="https://ishwarik117.github.io/Personal-Portfolio/">Visit here</a>
+
+# Welcome to my Personal-Portfolio
 
 
-</h1
-  
-  ><p align="center">
-  <kbd>
-    <img src=" https://github.com/IshwariK117/Personal-Portfolio/blob/master/Screenshot%20(4).png"></img>
-  </kbd>
-</p>
+
+## Screenshots
+
+![App Screenshot](https://github.com/IshwariK117/Personal-Portfolio/blob/master/Screenshot%20(4).png)
+
+
+## 🛠 Skills
+
+HTML
+
+CSS
+
+Javascript
+
+Bootstrap
+
 
 ## Sections
 ✔️ Summary and About me\
@@ -19,10 +27,12 @@
 ✔️ Projects\
 ✔️ Github Profile
 
-## Author
-👤 **Ishwari Kape**
-- Website:
-- Github: https://github.com/IshwariK117
-- LinkedIn:
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
 - ## Show your support
 Give a ⭐️ if this project helped you!
