@@ -3,7 +3,7 @@
 
 <p align="center">
   <kbd>
-    <img src=""></img>
+    <img src=" "></img>
   </kbd>
 </p>
 
