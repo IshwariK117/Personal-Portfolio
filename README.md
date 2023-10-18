@@ -8,9 +8,9 @@
 </p>
 
 ## Sections
-✔️ Summary and About me\n
-✔️ Skills\n
-✔️ Education\n
+✔️ Summary and About me\
+✔️ Skills\
+✔️ Education\
 ✔️ Work Experience\
 ✔️ Projects\
 ✔️ Github Profile
