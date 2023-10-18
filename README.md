@@ -1,6 +1,6 @@
 @@ -1,69 +1,69 @@
-<h1 align="center">Welcome to Personal-portfolio 👋 </h1><a href="https://ishwarik117.github.io/Personal-Portfolio/">Click here</a>
-
+<h1 align="center">Welcome to Personal-portfolio 👋 </h1>
+<a href="https://ishwarik117.github.io/Personal-Portfolio/">Visit here</a>
 <p align="center">
   <kbd>
     <img src=" "></img>
