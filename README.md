@@ -7,7 +7,8 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/IshwariK117/Personal-Portfolio/blob/master/Screenshot%20(4).png)
+![Screenshot (12)](https://github.com/IshwariK117/Personal-Portfolio/assets/99877551/db5c747b-7bc9-451a-893f-814e6a765cdb)
+
 
 
 ## 🛠 Skills
